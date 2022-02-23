@@ -1,1 +1,1 @@
-# sql persanal query
+# personal sql query
