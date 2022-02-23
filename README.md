@@ -1,0 +1,1 @@
+# sql persanal query
