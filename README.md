@@ -1,1 +1,1 @@
-# personal sql query 
+# Bigquery Workspase to maintain and store queryes linked to github
